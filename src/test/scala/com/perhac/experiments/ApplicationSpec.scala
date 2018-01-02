@@ -1,4 +1,4 @@
-package example
+package com.perhac.readinglog
 
 import org.scalatest._
 
